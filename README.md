@@ -1,7 +1,2 @@
-Tela Principal Part. 1
-
-![image](https://github.com/JonatanGoncalves/FoodApp/assets/136382063/19df4ee7-94b9-4c9d-a904-e491d9308636)
-------------------------
-Tela Principal Part. 2
-
-![image](https://github.com/JonatanGoncalves/FoodApp/assets/136382063/d028a854-ef6d-48b3-aa04-dca3efd0f324)
+Tela Principal
+![Captura de tela 2024-07-16 143452](https://github.com/user-attachments/assets/1933cd1e-3c94-401d-821b-313a46921977)
